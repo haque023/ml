@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/mlruns/0/6fcdcaf762714933bca9e084b26a3a95/artifacts
+end_time: 1686561515096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fcdcaf762714933bca9e084b26a3a95
+run_name: burly-mare-484
+run_uuid: 6fcdcaf762714933bca9e084b26a3a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686561509354
+status: 3
+tags: []
+user_id: Emdad-Pc

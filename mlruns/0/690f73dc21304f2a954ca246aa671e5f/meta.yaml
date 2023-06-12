@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/mlruns/0/690f73dc21304f2a954ca246aa671e5f/artifacts
+end_time: 1686560470287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 690f73dc21304f2a954ca246aa671e5f
+run_name: adventurous-bug-391
+run_uuid: 690f73dc21304f2a954ca246aa671e5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686560464509
+status: 3
+tags: []
+user_id: Emdad-Pc
