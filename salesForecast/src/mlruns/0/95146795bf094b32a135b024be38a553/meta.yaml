@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/95146795bf094b32a135b024be38a553/artifacts
+end_time: 1686656905401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95146795bf094b32a135b024be38a553
+run_name: incongruous-ant-921
+run_uuid: 95146795bf094b32a135b024be38a553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686656900608
+status: 3
+tags: []
+user_id: Emdad-Pc

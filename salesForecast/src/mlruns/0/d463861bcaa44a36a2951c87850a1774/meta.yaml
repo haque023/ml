@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/d463861bcaa44a36a2951c87850a1774/artifacts
+end_time: 1686655688602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d463861bcaa44a36a2951c87850a1774
+run_name: gentle-flea-935
+run_uuid: d463861bcaa44a36a2951c87850a1774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686655688441
+status: 4
+tags: []
+user_id: Emdad-Pc

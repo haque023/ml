@@ -1,0 +1,11 @@
+python: "3.11"
+
+build_dependencies:
+  - pip
+  - setuptools
+  - wheel==0.38.1
+
+dependencies:
+  - mlflow==2.4.1
+  - scikit-learn==1.2.2
+  - tensorflow==2.12.0

@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1686654266502
+current_stage: None
+description: ''
+last_updated_timestamp: 1686654266502
+name: sales analysis
+run_id: 2553d2fcd1d044c392dd62b8d61de9ae
+run_link: ''
+source: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/mlruns/0/2553d2fcd1d044c392dd62b8d61de9ae/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
