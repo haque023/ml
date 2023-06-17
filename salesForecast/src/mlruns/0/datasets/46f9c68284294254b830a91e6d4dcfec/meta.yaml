@@ -1,0 +1,10 @@
+digest: b60c0a16
+name: dataset
+profile: '{"features_shape": [10084, 2], "features_size": 20168, "features_nbytes":
+  161344, "targets_shape": [10084], "targets_size": 10084, "targets_nbytes": 80672}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"int64\", \"shape\": [-1, 2]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "Emdad-Pc", "mlflow.source.name": "filetering_movie.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "b78ef1c566cc7da36b2c2b393860b49e4b94c8c6"}}'
+source_type: code

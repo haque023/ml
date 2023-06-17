@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/24a4b318757044f6b2e254ed70f14955/artifacts
+end_time: 1686720502518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24a4b318757044f6b2e254ed70f14955
+run_name: nervous-colt-282
+run_uuid: 24a4b318757044f6b2e254ed70f14955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686720497481
+status: 3
+tags: []
+user_id: Emdad-Pc

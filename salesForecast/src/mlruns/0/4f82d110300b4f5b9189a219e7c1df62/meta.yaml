@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/4f82d110300b4f5b9189a219e7c1df62/artifacts
+end_time: 1686713562288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f82d110300b4f5b9189a219e7c1df62
+run_name: resilient-shark-666
+run_uuid: 4f82d110300b4f5b9189a219e7c1df62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686713481650
+status: 4
+tags: []
+user_id: Emdad-Pc

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/bab151b41f604e7b9ce93df2a3ede61f/artifacts
+end_time: 1686713329475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bab151b41f604e7b9ce93df2a3ede61f
+run_name: popular-wolf-441
+run_uuid: bab151b41f604e7b9ce93df2a3ede61f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686713025945
+status: 4
+tags: []
+user_id: Emdad-Pc

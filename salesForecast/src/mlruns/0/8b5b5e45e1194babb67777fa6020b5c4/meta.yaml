@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/8b5b5e45e1194babb67777fa6020b5c4/artifacts
+end_time: 1686719332322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b5b5e45e1194babb67777fa6020b5c4
+run_name: stately-fish-630
+run_uuid: 8b5b5e45e1194babb67777fa6020b5c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686719321272
+status: 3
+tags: []
+user_id: Emdad-Pc

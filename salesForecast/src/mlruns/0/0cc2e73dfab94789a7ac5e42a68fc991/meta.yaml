@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/0cc2e73dfab94789a7ac5e42a68fc991/artifacts
+end_time: 1686713434437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cc2e73dfab94789a7ac5e42a68fc991
+run_name: unruly-seal-277
+run_uuid: 0cc2e73dfab94789a7ac5e42a68fc991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686713349767
+status: 4
+tags: []
+user_id: Emdad-Pc

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/0f81e3145ec2465da63c94e61bc63f53/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f81e3145ec2465da63c94e61bc63f53
+run_name: classy-goose-297
+run_uuid: 0f81e3145ec2465da63c94e61bc63f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686712760709
+status: 1
+tags: []
+user_id: Emdad-Pc

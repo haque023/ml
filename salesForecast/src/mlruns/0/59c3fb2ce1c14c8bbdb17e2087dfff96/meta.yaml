@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/59c3fb2ce1c14c8bbdb17e2087dfff96/artifacts
+end_time: 1686658203043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59c3fb2ce1c14c8bbdb17e2087dfff96
+run_name: capable-stoat-104
+run_uuid: 59c3fb2ce1c14c8bbdb17e2087dfff96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686658198511
+status: 3
+tags: []
+user_id: Emdad-Pc

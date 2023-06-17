@@ -1,35 +1,3 @@
-"""
-Title: Collaborative Filtering for Movie Recommendations
-Author: [Siddhartha Banerjee](https://twitter.com/sidd2006)
-Date created: 2020/05/24
-Last modified: 2020/05/24
-Description: Recommending movies using a model trained on Movielens dataset.
-"""
-"""
-## Introduction
-
-This example demonstrates
-[Collaborative filtering](https://en.wikipedia.org/wiki/Collaborative_filtering)
-using the [Movielens dataset](https://www.kaggle.com/c/movielens-100k)
-to recommend movies to users.
-The MovieLens ratings dataset lists the ratings given by a set of users to a set of movies.
-Our goal is to be able to predict ratings for movies a user has not yet watched.
-The movies with the highest predicted ratings can then be recommended to the user.
-
-The steps in the model are as follows:
-
-1. Map user ID to a "user vector" via an embedding matrix
-2. Map movie ID to a "movie vector" via an embedding matrix
-3. Compute the dot product between the user vector and movie vector, to obtain
-the a match score between the user and the movie (predicted rating).
-4. Train the embeddings via gradient descent using all known user-movie pairs.
-
-**References:**
-
-- [Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/371920.372071)
-- [Neural Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3038912.3052569)
-"""
-
 import pandas as pd
 import numpy as np
 from zipfile import ZipFile
@@ -42,7 +10,7 @@ from pathlib import Path
 import mlflow.tensorflow
 mlflow.tensorflow.autolog()
 
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 """
 ## First, load the data and apply preprocessing
@@ -182,13 +150,13 @@ history = model.fit(
 """
 ## Plot training and validation loss
 """
-# plt.plot(history.history["loss"])
-# plt.plot(history.history["val_loss"])
-# plt.title("model loss")
-# plt.ylabel("loss")
-# plt.xlabel("epoch")
-# plt.legend(["train", "test"], loc="upper left")
-# plt.show()
+plt.plot(history.history["loss"])
+plt.plot(history.history["val_loss"])
+plt.title("model loss")
+plt.ylabel("loss")
+plt.xlabel("epoch")
+plt.legend(["train", "test"], loc="upper left")
+plt.show()
 
 """
 ## Show top 10 movie recommendations to a user

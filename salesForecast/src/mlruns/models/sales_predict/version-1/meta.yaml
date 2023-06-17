@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1686715544963
+current_stage: None
+description: ''
+last_updated_timestamp: 1686715544963
+name: sales_predict
+run_id: f07132f3eda94521ac5babf7f876ef4f
+run_link: ''
+source: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/f07132f3eda94521ac5babf7f876ef4f/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

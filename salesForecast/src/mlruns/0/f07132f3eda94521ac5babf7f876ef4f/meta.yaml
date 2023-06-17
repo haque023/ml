@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/f07132f3eda94521ac5babf7f876ef4f/artifacts
+end_time: 1686714058908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f07132f3eda94521ac5babf7f876ef4f
+run_name: dapper-squirrel-351
+run_uuid: f07132f3eda94521ac5babf7f876ef4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686713687081
+status: 3
+tags: []
+user_id: Emdad-Pc

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/f476de05b906430da4148cae2be782fa/artifacts
+end_time: 1686715820214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f476de05b906430da4148cae2be782fa
+run_name: skillful-fly-544
+run_uuid: f476de05b906430da4148cae2be782fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686715811223
+status: 4
+tags: []
+user_id: Emdad-Pc
