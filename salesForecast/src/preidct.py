@@ -33,5 +33,5 @@ loaded_model = mlflow.pyfunc.load_model(logged_model)
 # # Predict on a Pandas DataFrame.
 #
 #print(X_test)
-print(y_test,loaded_model.predict(X_test))
+print(loaded_model.predict(X_test))
 

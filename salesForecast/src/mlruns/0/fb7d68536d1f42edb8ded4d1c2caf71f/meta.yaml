@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/fb7d68536d1f42edb8ded4d1c2caf71f/artifacts
+end_time: 1686998730335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb7d68536d1f42edb8ded4d1c2caf71f
+run_name: adventurous-auk-438
+run_uuid: fb7d68536d1f42edb8ded4d1c2caf71f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686998730221
+status: 3
+tags: []
+user_id: Emdad-Pc

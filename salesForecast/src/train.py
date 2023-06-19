@@ -30,13 +30,13 @@ monthly_sales['date'] = monthly_sales['date'].dt.to_timestamp()
 monthly_sales['sales_diff'] = monthly_sales['sales'].diff()
 monthly_sales = monthly_sales.dropna()
 
-supervised_data = monthly_sales.drop(['date','sales'],axis=1)
-
+supervised_data = monthly_sales.drop(['date', 'sales'], axis=1)
 for i in range(1, 13):
     col_name = 'month_' + str(i)
-    supervised_data[col_name] = supervised_data['sales_diff'].shift(i);
+    supervised_data[col_name] = supervised_data['sales_diff'].shift(i)
 
 supervised_data = supervised_data.dropna().reset_index(drop=True)
+print(supervised_data)
 train_data = supervised_data[:-12]
 test_data = supervised_data[-12:]
 scaler = MinMaxScaler(feature_range=(-1, 1))
@@ -58,7 +58,7 @@ y_test = y_test.ravel()
 sales_dates = monthly_sales['date'][-12:].reset_index(drop=True)
 predict_df = pd.DataFrame(sales_dates)
 act_sales = monthly_sales['sales'][-13:].to_list()
-# print(act_sales)
+print(act_sales)
 
 lr_model = LinearRegression()
 with mlflow.start_run() as run:

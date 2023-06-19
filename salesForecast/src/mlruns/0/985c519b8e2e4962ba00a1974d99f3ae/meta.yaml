@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/985c519b8e2e4962ba00a1974d99f3ae/artifacts
+end_time: 1686992252044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 985c519b8e2e4962ba00a1974d99f3ae
+run_name: intelligent-hen-870
+run_uuid: 985c519b8e2e4962ba00a1974d99f3ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686992248039
+status: 3
+tags: []
+user_id: Emdad-Pc

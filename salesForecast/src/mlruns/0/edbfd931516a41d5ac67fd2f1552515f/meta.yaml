@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/edbfd931516a41d5ac67fd2f1552515f/artifacts
+end_time: 1686997355913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edbfd931516a41d5ac67fd2f1552515f
+run_name: brawny-chimp-756
+run_uuid: edbfd931516a41d5ac67fd2f1552515f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686997352837
+status: 3
+tags: []
+user_id: Emdad-Pc
