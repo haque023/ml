@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/erpSalesAnalysis/src/mlruns/0/24ed022a4b5643fd8abbcaa59658b628/artifacts
+end_time: 1686998739021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24ed022a4b5643fd8abbcaa59658b628
+run_name: clumsy-squid-797
+run_uuid: 24ed022a4b5643fd8abbcaa59658b628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686998738941
+status: 4
+tags: []
+user_id: Emdad-Pc

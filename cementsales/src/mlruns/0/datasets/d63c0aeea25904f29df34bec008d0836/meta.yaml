@@ -1,0 +1,8 @@
+digest: 52f632d8
+name: dataset
+profile: '{"num_rows": 62, "num_elements": 124}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "time"}, {"type": "double",
+  "name": "diff"}]}'
+source: '{"tags": {"mlflow.user": "Emdad-Pc", "mlflow.source.name": "C:\\Users\\Emdad-Pc\\Desktop\\basicmlflow\\cementsales\\src\\cTrain.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "e44fadf77f10f4e1035d19c2850d6b4c66e9654a"}}'
+source_type: code

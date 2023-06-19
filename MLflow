@@ -1,9 +1,6 @@
-name: My Project
-python_env: python_env.yaml
-
+name: My-Project
 entry_points:
   main:
     parameters:
-      data_file: path
-      regularization: {type: float, default: 0.1}
-    command: "cd salesForecast/src python train.py"
+
+    command: "salesForecast/src python train.py"

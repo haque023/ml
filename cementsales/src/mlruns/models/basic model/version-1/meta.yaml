@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687158399122
+current_stage: None
+description: ''
+last_updated_timestamp: 1687158399122
+name: basic model
+run_id: ef844c529f7e42f6be15334dcce92469
+run_link: ''
+source: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/ef844c529f7e42f6be15334dcce92469/artifacts/sales
+status: READY
+status_message: null
+user_id: null
+version: 1

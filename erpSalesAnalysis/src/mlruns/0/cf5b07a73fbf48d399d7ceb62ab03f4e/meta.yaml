@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/erpSalesAnalysis/src/mlruns/0/cf5b07a73fbf48d399d7ceb62ab03f4e/artifacts
+end_time: 1686998759635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf5b07a73fbf48d399d7ceb62ab03f4e
+run_name: peaceful-ape-918
+run_uuid: cf5b07a73fbf48d399d7ceb62ab03f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686998759566
+status: 4
+tags: []
+user_id: Emdad-Pc
