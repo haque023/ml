@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553075816160774288/5754a66962d74f6eaedf74bb95f5fb1d/artifacts
+end_time: 1687265193862
+entry_point_name: ''
+experiment_id: '553075816160774288'
+lifecycle_stage: active
+run_id: 5754a66962d74f6eaedf74bb95f5fb1d
+run_name: victorious-stork-637
+run_uuid: 5754a66962d74f6eaedf74bb95f5fb1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687265191311
+status: 4
+tags: []
+user_id: Emdad-Pc

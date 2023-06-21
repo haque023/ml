@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/f4042b3f39034d37b63f0de1f8dbc6d3/artifacts
+end_time: 1687181850508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4042b3f39034d37b63f0de1f8dbc6d3
+run_name: painted-conch-441
+run_uuid: f4042b3f39034d37b63f0de1f8dbc6d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687181838113
+status: 3
+tags: []
+user_id: Emdad-Pc

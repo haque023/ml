@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/d0c80c55d8664b4fb01fa29e7e8dee94/artifacts
+end_time: 1687251773635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0c80c55d8664b4fb01fa29e7e8dee94
+run_name: clumsy-frog-653
+run_uuid: d0c80c55d8664b4fb01fa29e7e8dee94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687251676350
+status: 3
+tags: []
+user_id: Emdad-Pc

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553075816160774288/3ecde4666184447e85a74def9d6d3663/artifacts
+end_time: 1687265706975
+entry_point_name: ''
+experiment_id: '553075816160774288'
+lifecycle_stage: active
+run_id: 3ecde4666184447e85a74def9d6d3663
+run_name: bemused-shrike-924
+run_uuid: 3ecde4666184447e85a74def9d6d3663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687265313113
+status: 4
+tags: []
+user_id: Emdad-Pc

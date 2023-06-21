@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/4e9c550d32344a20b94857caaaf12184/artifacts
+end_time: 1687240619172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e9c550d32344a20b94857caaaf12184
+run_name: gaudy-fox-115
+run_uuid: 4e9c550d32344a20b94857caaaf12184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687240605546
+status: 3
+tags: []
+user_id: Emdad-Pc

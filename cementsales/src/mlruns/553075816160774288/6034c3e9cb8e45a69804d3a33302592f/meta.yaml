@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/553075816160774288/6034c3e9cb8e45a69804d3a33302592f/artifacts
+deleted_time: 1687265064680
+end_time: 1687264976464
+entry_point_name: ''
+experiment_id: '553075816160774288'
+lifecycle_stage: deleted
+run_id: 6034c3e9cb8e45a69804d3a33302592f
+run_name: omniscient-snail-962
+run_uuid: 6034c3e9cb8e45a69804d3a33302592f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687264973912
+status: 4
+tags: []
+user_id: Emdad-Pc

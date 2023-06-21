@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/a062befba4ba4706b046cca92200a9dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a062befba4ba4706b046cca92200a9dd
+run_name: whimsical-quail-996
+run_uuid: a062befba4ba4706b046cca92200a9dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687264130180
+status: 1
+tags: []
+user_id: Emdad-Pc

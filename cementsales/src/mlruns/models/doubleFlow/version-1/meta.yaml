@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687184293492
+current_stage: None
+description: ''
+last_updated_timestamp: 1687184293492
+name: doubleFlow
+run_id: 29cff25194f74032b3e97520c159b5b6
+run_link: ''
+source: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/29cff25194f74032b3e97520c159b5b6/artifacts/sales
+status: READY
+status_message: null
+user_id: null
+version: 1

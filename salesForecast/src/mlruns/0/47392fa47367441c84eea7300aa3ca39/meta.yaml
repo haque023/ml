@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/47392fa47367441c84eea7300aa3ca39/artifacts
+end_time: 1687181720921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47392fa47367441c84eea7300aa3ca39
+run_name: auspicious-fox-186
+run_uuid: 47392fa47367441c84eea7300aa3ca39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687181715381
+status: 4
+tags: []
+user_id: Emdad-Pc

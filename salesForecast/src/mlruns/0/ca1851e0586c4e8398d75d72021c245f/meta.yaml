@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/salesForecast/src/mlruns/0/ca1851e0586c4e8398d75d72021c245f/artifacts
+end_time: 1687181750525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca1851e0586c4e8398d75d72021c245f
+run_name: unequaled-jay-22
+run_uuid: ca1851e0586c4e8398d75d72021c245f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687181738052
+status: 3
+tags: []
+user_id: Emdad-Pc

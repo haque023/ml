@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/ca60ce955d6544ec86bff8cd1fe7a7a5/artifacts
+end_time: 1687240229676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca60ce955d6544ec86bff8cd1fe7a7a5
+run_name: entertaining-sow-344
+run_uuid: ca60ce955d6544ec86bff8cd1fe7a7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687240207400
+status: 3
+tags: []
+user_id: Emdad-Pc

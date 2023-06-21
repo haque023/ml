@@ -1,0 +1,10 @@
+digest: b62afdd5
+name: dataset
+profile: '{"features_shape": [2, 12], "features_size": 24, "features_nbytes": 192,
+  "targets_shape": [2], "targets_size": 2, "targets_nbytes": 16}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 12]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "Emdad-Pc", "mlflow.source.name": "C:\\Users\\Emdad-Pc\\Desktop\\basicmlflow\\salesForecast\\src\\train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "d5cda0286c1f56fdd9be68178a42b726d4f57c77"}}'
+source_type: code

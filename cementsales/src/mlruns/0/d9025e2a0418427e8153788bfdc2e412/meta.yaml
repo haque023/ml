@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/d9025e2a0418427e8153788bfdc2e412/artifacts
+end_time: 1687239808527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9025e2a0418427e8153788bfdc2e412
+run_name: salty-colt-140
+run_uuid: d9025e2a0418427e8153788bfdc2e412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687239434344
+status: 4
+tags: []
+user_id: Emdad-Pc

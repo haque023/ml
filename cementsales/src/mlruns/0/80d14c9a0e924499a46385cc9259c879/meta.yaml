@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/80d14c9a0e924499a46385cc9259c879/artifacts
+end_time: 1687251626582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80d14c9a0e924499a46385cc9259c879
+run_name: whimsical-horse-287
+run_uuid: 80d14c9a0e924499a46385cc9259c879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687251618749
+status: 3
+tags: []
+user_id: Emdad-Pc
