@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/0c58069a4f2c425389bdfb02dff7fc00/artifacts
+end_time: 1687406466630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c58069a4f2c425389bdfb02dff7fc00
+run_name: loud-asp-846
+run_uuid: 0c58069a4f2c425389bdfb02dff7fc00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687406459301
+status: 3
+tags: []
+user_id: Emdad-Pc

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/23410c0341be41c5b1d362f5bf15ea7f/artifacts
+end_time: 1687357454452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23410c0341be41c5b1d362f5bf15ea7f
+run_name: nebulous-snake-882
+run_uuid: 23410c0341be41c5b1d362f5bf15ea7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687357447095
+status: 3
+tags: []
+user_id: Emdad-Pc

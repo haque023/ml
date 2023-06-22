@@ -1,0 +1,22 @@
+artifact_path: sales
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.4.1
+model_uuid: 7149868a43874c9781b812595e0b8546
+run_id: 3cfbfb71fbc44be7a5068674778772d3
+signature:
+  inputs: '[{"type": "double", "name": "time"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+utc_time_created: '2023-06-22 04:56:35.749775'

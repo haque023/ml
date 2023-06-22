@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/a9207e8697ab4459bb05f7c1c070be66/artifacts
+end_time: 1687406065281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9207e8697ab4459bb05f7c1c070be66
+run_name: caring-duck-175
+run_uuid: a9207e8697ab4459bb05f7c1c070be66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687406058707
+status: 3
+tags: []
+user_id: Emdad-Pc

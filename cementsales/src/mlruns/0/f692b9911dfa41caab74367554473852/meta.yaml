@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/f692b9911dfa41caab74367554473852/artifacts
+end_time: 1687405691446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f692b9911dfa41caab74367554473852
+run_name: lyrical-moose-28
+run_uuid: f692b9911dfa41caab74367554473852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687405685459
+status: 3
+tags: []
+user_id: Emdad-Pc

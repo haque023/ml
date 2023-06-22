@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/4244ecda7bd342b5bbb9af51cc56651a/artifacts
+end_time: 1687405022414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4244ecda7bd342b5bbb9af51cc56651a
+run_name: aged-hog-993
+run_uuid: 4244ecda7bd342b5bbb9af51cc56651a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687405016275
+status: 4
+tags: []
+user_id: Emdad-Pc

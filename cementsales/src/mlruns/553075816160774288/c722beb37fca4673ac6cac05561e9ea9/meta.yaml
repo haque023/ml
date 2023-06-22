@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553075816160774288/c722beb37fca4673ac6cac05561e9ea9/artifacts
+end_time: 1687356316064
+entry_point_name: ''
+experiment_id: '553075816160774288'
+lifecycle_stage: active
+run_id: c722beb37fca4673ac6cac05561e9ea9
+run_name: sassy-frog-273
+run_uuid: c722beb37fca4673ac6cac05561e9ea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687356290883
+status: 3
+tags: []
+user_id: Emdad-Pc

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Emdad-Pc/Desktop/basicmlflow/cementsales/src/mlruns/0/29b37b8368e24cb6b94a656eebfb76e8/artifacts
+end_time: 1687357014113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29b37b8368e24cb6b94a656eebfb76e8
+run_name: defiant-shrike-973
+run_uuid: 29b37b8368e24cb6b94a656eebfb76e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687356937535
+status: 3
+tags: []
+user_id: Emdad-Pc
