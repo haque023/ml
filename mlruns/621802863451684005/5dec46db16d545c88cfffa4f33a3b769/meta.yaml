@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/621802863451684005/5dec46db16d545c88cfffa4f33a3b769/artifacts
+end_time: 1687675128885
+entry_point_name: ''
+experiment_id: '621802863451684005'
+lifecycle_stage: active
+run_id: 5dec46db16d545c88cfffa4f33a3b769
+run_name: sales_0125-06-23
+run_uuid: 5dec46db16d545c88cfffa4f33a3b769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687675122901
+status: 3
+tags: []
+user_id: Emdad-Pc

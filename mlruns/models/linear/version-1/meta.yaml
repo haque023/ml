@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687675129040
+current_stage: None
+description: ''
+last_updated_timestamp: 1687675129040
+name: linear
+run_id: 5dec46db16d545c88cfffa4f33a3b769
+run_link: ''
+source: mlflow-artifacts:/621802863451684005/5dec46db16d545c88cfffa4f33a3b769/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

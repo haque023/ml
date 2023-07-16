@@ -20,7 +20,7 @@ def fetch_logged_data(run_id):
     artifacts = [f.path for f in client.list_artifacts(run_id, "model")]
     return data.params, data.metrics, tags, artifacts
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+mlflow.set_tracking_uri("http://10.209.99.12:5000")
 mlflow.sklearn.autolog()
 store_sales = pd.read_csv('../data/ACCL_Sales.csv')
 plt.figure(figsize=(15, 5))
@@ -62,30 +62,33 @@ with mlflow.start_run(experiment_id = mlflow_exp_id) as run:
     lr.fit(x_train, y_train)
     i = lr.intercept_
     c = lr.coef_
-    data = {
-        "time": [1.398902e+09, 1.338509e+09]
-    }
-    dic = pd.DataFrame(data)
-    signature = infer_signature(dic, lr.predict(x_test))
-    mlflow.sklearn.log_model(lr, "sales", signature=signature)
-    x_test = x_test.sort_values(by=['time'])
+    print(x_test)
+    import pickle
 
-    y_predict = lr.predict(x_test)
-
-    store_sales['Datetime'] = pd.to_datetime(store_sales['time'], unit='s')
-    x_test['Datetime'] = pd.to_datetime(x_test['time'], unit='s')
-    x_train['Datetime'] = pd.to_datetime(x_train['time'], unit='s')
+    model = pickle.load(open('model/model.pkl', 'rb'))
+    pickle.dump(model, open('model/model.pkl', 'wb'))
+    model = pickle.load(open('model/model.pkl', 'rb'))
+    print(scaler.inverse_transform(model.predict(x_test)))
+    # signature = infer_signature(x_test, lr.predict(x_test))
+    # mlflow.sklearn.log_model(lr, "sales", signature=signature)
+    # x_test = x_test.sort_values(by=['time'])
+    #
+    # y_predict = lr.predict(x_test)
+    #
+    # store_sales['Datetime'] = pd.to_datetime(store_sales['time'], unit='s')
+    # x_test['Datetime'] = pd.to_datetime(x_test['time'], unit='s')
+    # x_train['Datetime'] = pd.to_datetime(x_train['time'], unit='s')
     #
     # plt.plot(store_sales['Datetime'], store_sales['ScaleQuantity'])
     # plt.plot(x_test['Datetime'], y_predict)
     # plt.show()
-    lr_mse = np.sqrt(mean_squared_error(y_predict, y_test))
-    lr_mae = np.sqrt(mean_absolute_error(y_predict, y_test))
-    lr_r2 = r2_score(y_predict, y_test)
-
-    print(lr_r2)
+    # lr_mse = np.sqrt(mean_squared_error(y_predict, y_test))
+    # lr_mae = np.sqrt(mean_absolute_error(y_predict, y_test))
+    # lr_r2 = r2_score(y_predict, y_test)
+    #
+    # print(lr_r2)
 params, metrics, tags, artifacts = fetch_logged_data(run.info.run_id)
-pprint(params)
-pprint(metrics)
-pprint(tags)
-pprint(artifacts)
+# pprint(params)
+# pprint(metrics)
+# pprint(tags)
+# pprint(artifacts)
